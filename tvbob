@@ -61,7 +61,7 @@ http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/
 http://122.248.43.138:1935/ch2/myStream/live.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo=https://i.postimg.cc/vTbB9TXb/h-XC6-Vd-Yi-400x400.jpg,JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_w759313912.m3u8
-#EXTINF:-1, group-title="LOCAL" tvg-logo=https://i.postimg.cc/LsGtMnNH/jaktv-tv.jpg, JakTV
+#EXTINF:-1,group-title="LOCAL" tvg-logo=https://i.postimg.cc/LsGtMnNH/jaktv-tv.jpg,JakTV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_720p/index.m3u8
 #EXTINF:-1 tvg-name="Daai TV ID tvg-logo=https://i.ibb.co/d0GbGhj/daiitvlogo.png group-title="LOCAL",DAAI TV INDONESIA
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6482_720p/index.m3u8
