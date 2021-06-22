@@ -113,9 +113,9 @@ http://122.248.43.138:1935/ch14/myStream/live.m3u8
 http://122.248.43.138:1935/ch23/myStream/live.m3u8
 #EXTINF:-1  tvg-logo= group-title="LOCAL", Simpang5Tv
 http://122.248.43.138:1935/ch4/myStream/live.m3u8
-#EXTINF:0  tvg-logo="https://i.postimg.cc/yNT5jd6K/BETV.png" group-title="LOCAL", BETV Bengkulu
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/yNT5jd6K/BETV.png" group-title="LOCAL", BETV Bengkulu
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
-#EXTINF:0  tvg-logo="https://i.postimg.cc/nhpNDBZ2/Ch-rbtv-logo-250px.png" group-title="LOCAL", RBTV Bengkulu
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/nhpNDBZ2/Ch-rbtv-logo-250px.png" group-title="LOCAL", RBTV Bengkulu
 http://122.248.43.138:1935/ch12/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdTGp7G2/primatv-logo-2.png" group-title="LOCAL", PrimaTv
 
@@ -140,15 +140,15 @@ https://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8xnfQBJ/cnbc.jpg" group-title="BERITA", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
-#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO-JAKARTA-GLOBE-news-channel.jpg"?1450088826 group-title="BERITA", JAKARTA GLOBE
+#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO-JAKARTA-GLOBE-news-channel.jpg?1450088826" group-title="BERITA", JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgzJcvKK/VOA.jpg" group-title="BERITA", VOA INDONESIA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://imgur.com/zijtR5y group-title="BERITA", ANTARA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/zijtR5y group-title="BERITA", ANTARA
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=usee-antara
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/image/YSxBtR0DYJ5MkLTLDBmI.png" group-title="BERITA", IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png"?v=2.0.0.13 group-title="BERITA", EDUKASI
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13 group-title="BERITA", EDUKASI
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=usee-tvedukasi
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png"?v=2.0.0.13 group-title="MOVIES", BIOSKOP INDONESIA
@@ -311,7 +311,7 @@ https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="HIBURAN",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-ID=TLC.id group-title="HIBURAN" tvg-logo="https://i.postimg.cc/x1PHqrPw/TLC.png",TLC
+#EXTINF:-1 tvg-ID="" group-title="HIBURAN" tvg-logo="https://i.postimg.cc/x1PHqrPw/TLC.png",TLC
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYH3Qzgw/FMN-Forget-Me-Not-Channel.png" group-title="HIBURAN", FMN
 
@@ -327,7 +327,7 @@ http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VHZ5Wr0/aniplus.png" group-title="ANAK",ANIPLUS
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id= tvg-logo="https://i.imgur.com/9EDVkDJ.png"?1 group-title="ANAK",DISNEY CHANELL
+#EXTINF:-1 tvg-id= tvg-logo="https://i.imgur.com/9EDVkDJ.png?1" group-title="ANAK",DISNEY CHANELL
 http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxskrRW/disneyjunior.png" group-title="ANAK",DISNEY JUNIOR
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
@@ -337,7 +337,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6K5K00/cnlogo.png" group-title="ANAK", Cartoon Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 https://radenroro.net/RHS_september/homempd.php?channel=cartoonnetwork
-#EXTINF:-1 tvg-ID= tvg-name= tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg"/125px-Ducktv-logo.jpg" group-title="ANAK",DUCK TV
+#EXTINF:-1 tvg-ID= tvg-name= tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="ANAK",DUCK TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sH7sMKY/babyfirstlogo.png" group-title="ANAK",BabyFirst
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
@@ -365,13 +365,13 @@ http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=dreamworks
 #EXTINF:-1 group-title="ANAK" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mkidz.png",My ANAK
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=usee-myANAK
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
-#EXTINF:-1 tvg-id=CBE.UK tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="ANAK", CBeebies
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="ANAK", CBeebies
 
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/7PWHKMHn/ZoomooANAKlogo.png" group-title="ANAK",ZooMoo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PWHKMHn/ZoomooANAKlogo.png" group-title="ANAK",ZooMoo
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6533
 
 
-#EXTINF:-1 tvg-ID=AnimalPlanet.id group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/Y0j8zrdL/Animal-Planet-New.png", Animal Planet
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/Y0j8zrdL/Animal-Planet-New.png", Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVIW9eB.png" group-title="PENGETAHUAN",  DISCOVERY CHANELL
@@ -383,10 +383,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://images.ufoiptv.com/channels/hd-history2.jpg",H2
 http://ns2.dreamstar.ru.com/russia/h2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png"?v=2.0.0.13 group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13 group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-ID= tvg-name= tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png"?v=2.0.0.13 group-title="PENGETAHUAN",NAT GEO WILD
+#EXTINF:-1 tvg-ID= tvg-name= tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_big.png?v=2.0.0.13 group-title="PENGETAHUAN",NAT GEO WILD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rH2KQJf/natgeopeoplelogo.png" group-title="PENGETAHUAN",NAT GEO PEOPLE
@@ -394,36 +394,36 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3hhYM4/crimeinveslogo.png" group-title="PENGETAHUAN", Crime Investigation
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=usee-crimeinvestigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-ID= tvg-name= tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="PENGETAHUAN",Home and Living
+#EXTINF:-1 tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="PENGETAHUAN",Home and Living
 
-#EXTINF:-1 tvg-ID=AFC group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/5txBm909/AFN-net.png", AFN
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/5txBm909/AFN-net.png", AFN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqYmT0Y5/eat-go.png", group-title="PENGETAHUAN", Eat & Go
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqYmT0Y5/eat-go.png" group-title="PENGETAHUAN", Eat & Go
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=eatgo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="PENGETAHUAN", Food Network
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png" group-title="PENGETAHUAN", Travel TV
 
-#EXTINF:-1 tvg-ID=HGTV group-title="PENGETAHUAN" tvg-logo="https://www.kindpng.com/picc/m/195-1958615_hgtv-logo-png-transparent-png.png", HGTV
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.kindpng.com/picc/m/195-1958615_hgtv-logo-png-transparent-png.png", HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-ID=BBCEarth.id group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/GtYK571b/BBC-earth.jpg", BBC Earth
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/GtYK571b/BBC-earth.jpg", BBC Earth
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
-#EXTINF:-1 tvg-ID=BBC Lifestyle group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/qvBcsMgJ/iZA1Cnu.png", BBC Lifestyle
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/qvBcsMgJ/iZA1Cnu.png", BBC Lifestyle
 
-#EXTINF:-1 tvg-ID=LoveNature.uk group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/d3vZJ4ys/Love-nat.jpg", Love Nature
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/d3vZJ4ys/Love-nat.jpg", Love Nature
  http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6635
-#EXTINF:-1 tvg-ID=Smithsonian group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/sx6jbcP0/Smith.jpg", Smithsonian
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/sx6jbcP0/Smith.jpg", Smithsonian
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6550
-#EXTINF: -1 tvg-id=CGD.News tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="PENGETAHUAN", CGTN Documentary
+#EXTINF: -1 tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="PENGETAHUAN", CGTN Documentary
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="PENGETAHUAN", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="PENGETAHUAN",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.huntchannel.tv/wp-content/uploads/2020/02/Video-Title.png"",Hunt Channel
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.huntchannel.tv/wp-content/uploads/2020/02/Video-Title.png", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/MpXRp3N8/anthem-champion-league.png" group-title="OLAHRAGA",CHAMPION LEAGUE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpXRp3N8/anthem-champion-league.png" group-title="OLAHRAGA",CHAMPION LEAGUE
 https://www.dropbox.com/s/ouds419ikri607v/introUCL.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJgyvB6/USEESPORTLOGO1.jpg" group-title="OLAHRAGA", UseeSports
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=useesport
@@ -546,15 +546,15 @@ http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtjLtnBh/Astro-Super-Sport-3.jpg" group-title="OLAHRAGA", ASTRO SPORTS 3
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjdhSYbf/astro-arena-logo-png"-4.png" group-title="OLAHRAGA", ASTRO SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjdhSYbf/astro-arena-logo-png-4.png" group-title="OLAHRAGA", ASTRO SPORTS 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1   tvg-logo= group-title="OLAHRAGA", ASTRO ARENA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjdhSYbf/astro-arena-logo-png-4.png" group-title="OLAHRAGA", ASTRO ARENA
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fUFZ6z/tvrisport.jpg" group-title="OLAHRAGA",TVRI Sport HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="OLAHRAGA",ZQsport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="OLAHRAGA",ZQsport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLsLMKn8/RTM-HD-Sports.png" group-title="OLAHRAGA",RTM SPORTS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLsLMKn8/RTM-HD-Sports.png" group-title="OLAHRAGA",RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/FightBox_(2013).svg/revision/latest/scale-to-width-down/340?cb=20171210175839 group-title="OLAHRAGA",FIGHT BOX
 
@@ -594,9 +594,9 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/1.m3u8
 
 #EXTINF:-1  tvg-logo="https://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png" group-title="OLAHRAGA",Real Madrid TV
 
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://www.loganmcgillracing.com.au/assets/images/logan/link/9.png" group-title="OLAHRAGA",Racing.Com
+#EXTINF:-1 tvg-logo="https://www.loganmcgillracing.com.au/assets/images/logan/link/9.png" group-title="OLAHRAGA",Racing.Com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg group-title="OLAHRAGA",Redbull TV
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="OLAHRAGA",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-country=TR tvg-logo="https://i.postimg.cc/8P4NQnxB/sporttv.png" group-title="OLAHRAGA",SPORTS TV
 
@@ -639,9 +639,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDhTpPBH/BEIN8.png" group-title="BEIN SPORT" ,BEIN SPORTS 8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6604
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://imgur.com/tI5VyQW group-title="BEIN SPORT" ,BEIN SPORTS 9
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://imgur.com/tI5VyQW" group-title="BEIN SPORT" ,BEIN SPORTS 9
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6605
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://imgur.com/DOy0O2t group-title="BEIN SPORT" ,BEIN SPORTS 10
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://imgur.com/DOy0O2t" group-title="BEIN SPORT" ,BEIN SPORTS 10
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6606
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvWX9Qfk/Be-IN-SPORTS-France-logo-2017.jpg" group-title="BEIN SPORT",Bein Sports 1 HD FR
 http://mantul.biz.id:8888/294/294/4638
