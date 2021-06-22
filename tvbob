@@ -700,7 +700,7 @@ http://81.30.182.82:18092/hls/live.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3gLWC9X/1200px-Dee-Jay-TV-svg.png" group-title="MUSIK",DEE JAY TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,tvg-logo="https://i.postimg.cc/G27H1Ncv/kral-pop-tv.png" group-title="MUSIK",KRAL POP HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G27H1Ncv/kral-pop-tv.png" group-title="MUSIK",KRAL POP HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 
