@@ -680,7 +680,7 @@ http://210.210.155.35/x6bnqe/s/s113/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="MUSIK",MTV Beats
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://www.png"find.com/png"s/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png"-download.png" group-title="MUSIK",MTV Live
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="MUSIK",MTV Live
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
 #EXTINF:-1, tvg-ID=ChannelV.id group-title="MUSIK" tvg-logo="https://i.postimg.cc/MGzkmpyp/mugos-logo.png",MUGOS
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
@@ -1015,27 +1015,27 @@ https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
 https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM" tvg-id="vtc14hd" tvg-logo="https://static.megavie.live/media/vtc14hd.jpg", VTC14 HD
 https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="vtc16" tvg-logo="https://static.megavie.live/media/vtc16.jpg"", VTC16 HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="vtc16" tvg-logo="https://static.megavie.live/media/vtc16.jpg", VTC16 HD
 https://vtc130121.cdn.vnns.io/VTC16_abr/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcthuanviethd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/07/16/200515-111250-HTVTT.png"", HTV Thể Thao HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcthuanviethd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/07/16/200515-111250-HTVTT.png", HTV Thể Thao HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcthuanviethd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/879824-ThuanVietHD1.png"", HTVC Thuần Việt HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcthuanviethd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/879824-ThuanVietHD1.png", HTVC Thuần Việt HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcthuanviet" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/850471-ThuanViet.png"", HTVC Thuần Việt
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcthuanviet" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/850471-ThuanViet.png", HTVC Thuần Việt
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcgiadinhhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/566530-Gia-Dinh.png"", HTVC Gia Đình HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcgiadinhhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/566530-Gia-Dinh.png", HTVC Gia Đình HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcphunuhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/941585-pn.png"", HTVC Phụ Nữ HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcphunuhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/941585-pn.png", HTVC Phụ Nữ HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvccanhachd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/524810-canhacHD.png"", HTVC Ca Nhạc HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvccanhachd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/524810-canhacHD.png", HTVC Ca Nhạc HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcphimhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/538562-pHIM.png"", HTVC Phim HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcphimhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/538562-pHIM.png", HTVC Phim HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcplushd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/371943-htvplus.png"", HTVC Plus HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcplushd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/371943-htvplus.png", HTVC Plus HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcdulichhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/348852-dulich.png"", HTVC Du Lịch Và Cuộc Sống HD
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcdulichhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/348852-dulich.png", HTVC Du Lịch Và Cuộc Sống HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcfbnc" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/560965-FBNC.png"", FBNC
+#EXTINF:-1 group-title="VIETNAM" tvg-id="htvcfbnc" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/560965-FBNC.png", FBNC
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 
 
