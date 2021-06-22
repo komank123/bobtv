@@ -21,21 +21,22 @@ http://46.34.209.242:80/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pT89dj/1200px-TVRILogo2019-svg.png" group-title="LOCAL" ,TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/6QYtM4KX/RCTI.png" group-title="LOCAL", RCTI+
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-665
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png", group-title="LOCAL", Global TV
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-778
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQZbBCg/MENCEID-S1.png" group-title="LOCAL", MNC TV+
-http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-870
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" group-title="LOCAL", SCTV
-http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=sctv
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 http://bonev2.xyz/playlist/usee-sctv-new-bonetv.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="LOCAL", INDOSIAR
 ttp://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=indosiar
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XJjc0ht5/net-HD.jpg" group-title="LOCAL", NET TV HD
