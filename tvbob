@@ -23,7 +23,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/6QYtM4KX/RCTI.png" group-title="LOCAL", RCTI+
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png", group-title="LOCAL", Global TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="LOCAL", Global TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vQZbBCg/MENCEID-S1.png" group-title="LOCAL", MNC TV+
