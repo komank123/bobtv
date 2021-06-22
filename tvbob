@@ -151,9 +151,9 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_en
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png"?v=2.0.0.13 group-title="BERITA", EDUKASI
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=usee-tvedukasi
 
-#EXTINF:-1, tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png"?v=2.0.0.13 group-title="MOVIES", BIOSKOP INDONESIA
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png"?v=2.0.0.13 group-title="MOVIES", BIOSKOP INDONESIA
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=bioskopindonesia
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/WpnfV4Fm/frekuensi-sinema-indonesia-x.jpg" group-title="MOVIES", SINEMA INDONESIA-X
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpnfV4Fm/frekuensi-sinema-indonesia-x.jpg" group-title="MOVIES", SINEMA INDONESIA-X
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hp8FKpZ/fliklogo.png" group-title="MOVIES", Flik
 https://mkctv.my.id/jarwo/cucok.m3u8?id=flik&bandwidth=b894100&sync=0
@@ -201,7 +201,7 @@ http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg group-title="MOVIES",KIX
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=kix
 http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="MOVIES",Thrill
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="MOVIES",Thrill
 http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4QhR65/wbttv.png" group-title="MOVIES",Warner TV
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=warner
@@ -209,7 +209,7 @@ http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=warner
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-ID= tvg-name=HITS Movies tvg-logo="https://imgur.com/undefined group-title="MOVIES",HITS Movies
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-#EXTINF:0 tvg-id= tvg-name= tvg-logo="https://i.dlpng".com/static/png"/422751_preview.png" group-title="MOVIES",STAR MOVIES HD
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://i.dlpng".com/static/png"/422751_preview.png" group-title="MOVIES",STAR MOVIES HD
 
 #EXTINF:-1 tvg-logo= group-title="MOVIES", SONY PIX
 
@@ -770,7 +770,7 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png" group-title="MALAYSIA",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-Hhttp://iptvtree.net:8080/12682/12bb8cc4/171958
+http://iptvtree.net:8080/12682/12bb8cc4/171958
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA",OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvikim.my/images/logo-header.png", group-title="MALAYSIA",TVIKIM
