@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvh-chnum="501",Awesome VOD Movie 1
-pipe:///usr/bin/ffmpeg -log fatal -hide_banner -re -i "http://s10.mangovideo.pw/contents/videos/24000/24670/24670.mp4 -c copy -f mpegts -flags +global_header -metadata provider_name="VOD Provider" -metadata service_name="VOD1" pipe:1
+https://drive.google.com/file/d/1bMVo12G1nxekV8LVR9KGDzzTCUHwU2LA/view?usp=sharing
 #EXTINF:-1 tvh-chnum="502",Awesome VOD Movie 2
-pipe:///usr/bin/ffmpeg -log fatal -hide_banner -re -i "http://server217.mangovideo.pw/contents/videos/25000/25237/25237.mp4 -c copy -f mpegts -flags +global_header -metadata provider_name="VOD Provider" -metadata service_name="VOD2" pipe:1
+https://drive.google.com/file/d/1i5l_q1XJTenb9dlukTYYBZxEk_rerChr/view?usp=sharing
